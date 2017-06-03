@@ -1,2 +1,3 @@
 # hello-world
-My first programm
+Hello everyone
+I am Vlad and i am going to be a programmer :)
